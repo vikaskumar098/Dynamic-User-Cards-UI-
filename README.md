@@ -23,7 +23,6 @@ The user data is stored in an array and rendered dynamically into beautiful glas
 ---
 
 ## 📂 Project Structure
-```
 
 Dynamic-User-Cards-UI/
 │── index.html
@@ -33,13 +32,11 @@ Dynamic-User-Cards-UI/
 │── style.css.map
 └── README.md
 
-```
 
 ---
 
 ## 🖼️ UI Preview  
 
-```
 
 <img width="1858" height="1036" alt="image" src="https://github.com/user-attachments/assets/a45080c1-a1b7-4921-a167-5b90dff9a02c" />
 
@@ -164,6 +161,5 @@ Ideas to upgrade:
 
 ⭐ If you like this project, consider giving it a **GitHub star!**
 
-```
 
 
